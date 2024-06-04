@@ -41,3 +41,8 @@
 9. Deleting .git folder
     
     rm -rf .git
+
+10. Push local repository to remote repository 
+
+    git push origin main 
+  
