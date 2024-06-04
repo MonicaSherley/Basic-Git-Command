@@ -1,4 +1,4 @@
-# Basic-Git-Commit
+# Basic-Git-Command
 
 1. Setting up a repository
 
